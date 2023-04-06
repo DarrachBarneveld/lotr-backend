@@ -1,0 +1,1877 @@
+[
+  {
+    "_id": "5cd99d4bde30eff6ebccfbe6",
+    "height": "6'6\"",
+    "race": "Human",
+    "gender": "Male",
+    "birth": "March 1 ,2931",
+    "spouse": "Arwen",
+    "death": "FO 120",
+    "realm": "Arnor, Gondor",
+    "hair": "Dark",
+    "name": "Aragorn II Elessar",
+    "wikiUrl": "http://lotr.wikia.com//wiki/Aragorn_II_Elessar",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Andúril",
+      "value": 50
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Army of the Dead",
+      "value": 200,
+      "isSpecial": true
+    },
+    "health": 500
+  },
+  {
+    "_id": "5cd99d4bde30eff6ebccfc07",
+    "height": "5'10\"",
+    "race": "Elf",
+    "gender": "Female",
+    "birth": "TA 241",
+    "spouse": "Aragorn II Elessar",
+    "death": "FO 121",
+    "realm": "Rivendell",
+    "hair": "Black",
+    "name": "Arwen",
+    "wikiUrl": "http://lotr.wikia.com//wiki/Arwen",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Hadhafang",
+      "value": 35
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Flood",
+      "value": 140,
+      "isSpecial": true
+    },
+    "health": 280
+  },
+  {
+    "_id": "5cd99d4bde30eff6ebccfc15",
+    "height": "3'6\"",
+    "race": "Hobbit",
+    "gender": "Male",
+    "birth": "22 September ,TA 2968",
+    "spouse": "",
+    "death": "Unknown (Last sighting ,September 29 ,3021,) (,SR 1421,)",
+    "realm": "The Shire",
+    "hair": "Brown",
+    "name": "Frodo Baggins",
+    "wikiUrl": "http://lotr.wikia.com//wiki/Frodo_Baggins",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Sting",
+      "value": 30
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Invisibilty",
+      "value": 130,
+      "isSpecial": true
+    },
+    "health": 220
+  },
+  {
+    "_id": "5cd99d4bde30eff6ebccfc1b",
+    "height": "4'6\"",
+    "race": "Dwarf",
+    "gender": "Male",
+    "birth": "TA 2763",
+    "spouse": "",
+    "death": "TA 2994",
+    "realm": "Erebor",
+    "hair": "White",
+    "name": "Balin",
+    "wikiUrl": "http://lotr.wikia.com//wiki/Balin",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Balin's Axe",
+      "value": 30
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Dwarven Power",
+      "value": 25,
+      "isSpecial": true
+    },
+    "health": 260
+  },
+  {
+    "_id": "5cd99d4bde30eff6ebccfc37",
+    "height": "4'5\"",
+    "race": "Dwarf",
+    "gender": "Male",
+    "birth": "TA 2814",
+    "spouse": "",
+    "death": "UnknownFourth Age",
+    "realm": "Blue Mountains",
+    "hair": "Black/ Grey (film)",
+    "name": "Bifur",
+    "wikiUrl": "http://lotr.wikia.com//wiki/Bifur",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Boar spear",
+      "value": 25
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Dwarven Power",
+      "value": 25,
+      "isSpecial": true
+    },
+    "health": 250
+  },
+  {
+    "_id": "5cd99d4bde30eff6ebccfc38",
+    "height": "3'1\"",
+    "race": "Hobbit",
+    "gender": "Male",
+    "birth": "22 September ,TA 2890",
+    "spouse": "None",
+    "death": "Unknown (Last sighting 29 SeptemberTA 3021,) (,SR 1421,)",
+    "realm": "The Shire",
+    "hair": "Brown, later white",
+    "name": "Bilbo Baggins",
+    "wikiUrl": "http://lotr.wikia.com//wiki/Bilbo_Baggins",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Sting",
+      "value": 30
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Sneak",
+      "value": 70,
+      "isSpecial": true
+    },
+    "health": 250
+  },
+  {
+    "_id": "5cd99d4bde30eff6ebccfc3a",
+    "height": "6'0\"",
+    "race": "Human",
+    "gender": "Male",
+    "birth": "Late ,Third Age",
+    "spouse": "",
+    "death": "March 15 ,3019",
+    "realm": "Harad",
+    "hair": "",
+    "name": "Black Serpent",
+    "wikiUrl": "http://lotr.wikia.com//wiki/Black_Serpent",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Standard Bearer",
+      "value": 20
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Mûmakil",
+      "value": 140,
+      "isSpecial": true
+    },
+    "health": 380
+  },
+  {
+    "_id": "5cd99d4bde30eff6ebccfc4f",
+    "height": "4'8\"",
+    "race": "Dwarf",
+    "gender": "Male",
+    "birth": "TA 2843",
+    "spouse": "",
+    "death": "",
+    "realm": "Blue Mountains",
+    "hair": "Dark Brown (films)",
+    "name": "Bofur",
+    "wikiUrl": "http://lotr.wikia.com//wiki/Bofur",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Warhammer",
+      "value": 25
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Dwarven Power",
+      "value": 25,
+      "isSpecial": true
+    },
+    "health": 250
+  },
+  {
+    "_id": "5cd99d4bde30eff6ebccfc54",
+    "height": "4'5\"",
+    "race": "Dwarf",
+    "gender": "Male",
+    "birth": "TA 2834",
+    "spouse": "",
+    "death": "",
+    "realm": "Erebor",
+    "hair": "Ginger",
+    "name": "Bombur",
+    "wikiUrl": "http://lotr.wikia.com//wiki/Bombur",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Flail",
+      "value": 25
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Dwarven Power",
+      "value": 25,
+      "isSpecial": true
+    },
+    "health": 230
+  },
+  {
+    "_id": "5cd99d4bde30eff6ebccfc57",
+    "height": "6'4\"",
+    "race": "Human",
+    "gender": "Male",
+    "birth": "TA 2978",
+    "spouse": "",
+    "death": "February 26 ,3019",
+    "realm": "Gondor",
+    "hair": "Dark (book) Light brown (movie)",
+    "name": "Boromir",
+    "wikiUrl": "http://lotr.wikia.com//wiki/Boromir",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Broadsword",
+      "value": 50
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Horn of Gondor",
+      "value": 150,
+      "isSpecial": true
+    },
+    "health": 410
+  },
+  {
+    "_id": "5cd99d4bde30eff6ebccfc7c",
+    "height": "4'4\"",
+    "race": "Hobbit",
+    "gender": "Male",
+    "birth": "TA 2982",
+    "spouse": "Estella (Bolger) Brandybuck",
+    "death": "FO 65",
+    "realm": "The Shire",
+    "hair": "Golden yellow (film)",
+    "name": "Meriadoc Brandybuck",
+    "wikiUrl": "http://lotr.wikia.com//wiki/Meriadoc_Brandybuck",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Barrow-blades",
+      "value": 20
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Rocks",
+      "value": 80,
+      "isSpecial": true
+    },
+    "health": 240
+  },
+  {
+    "_id": "5cd99d4bde30eff6ebccfc7e",
+    "height": "6'4\"",
+    "race": "Elf",
+    "gender": "Male",
+    "birth": "YT",
+    "spouse": "Galadriel",
+    "death": "Still alive, departed over the sea in the early Fourth Age",
+    "realm": "Lothlórien",
+    "hair": "Silver",
+    "name": "Celeborn",
+    "wikiUrl": "http://lotr.wikia.com//wiki/Celeborn",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Elvish Steel",
+      "value": 45
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Wisdom",
+      "value": 120,
+      "isSpecial": true
+    },
+    "health": 380
+  },
+  {
+    "_id": "5cd99d4bde30eff6ebccfc95",
+    "height": "6'0\"",
+    "race": "Human",
+    "gender": "Male",
+    "birth": "Late ,Third Age",
+    "spouse": "",
+    "death": "TA 3019",
+    "realm": "Gondor",
+    "hair": "Dark",
+    "name": "Damrod",
+    "wikiUrl": "http://lotr.wikia.com//wiki/Damrod",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Bow",
+      "value": 25
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Ambush",
+      "value": 80,
+      "isSpecial": true
+    },
+    "health": 230
+  },
+  {
+    "_id": "5cd99d4bde30eff6ebccfc9a",
+    "height": "6'1\"",
+    "race": "Human",
+    "gender": "Male",
+    "birth": "TA 2930",
+    "spouse": "Finduilas",
+    "death": "March 15 ,3019",
+    "realm": "Gondor",
+    "hair": "Dark, grey (in old age)",
+    "name": "Denethor II",
+    "wikiUrl": "http://lotr.wikia.com//wiki/Denethor_II",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Staff",
+      "value": 35
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Palantír",
+      "value": 110,
+      "isSpecial": true
+    },
+    "health": 300
+  },
+  {
+    "_id": "5cd99d4bde30eff6ebccfc9f",
+    "height": "4'5\"",
+    "race": "Dwarf",
+    "gender": "Male",
+    "birth": "TA 2827",
+    "spouse": "",
+    "death": "",
+    "realm": "Erebor",
+    "hair": "Gray (film)",
+    "name": "Dori",
+    "wikiUrl": "http://lotr.wikia.com//wiki/Dori",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Dwarven Axe",
+      "value": 25
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Dwarven Power",
+      "value": 25,
+      "isSpecial": true
+    },
+    "health": 240
+  },
+  {
+    "_id": "5cd99d4bde30eff6ebccfca4",
+    "height": "4'11\"",
+    "race": "Dwarf",
+    "gender": "Male",
+    "birth": "TA 2772",
+    "spouse": "",
+    "death": "FO 91",
+    "realm": "Erebor",
+    "hair": "Brown",
+    "name": "Dwalin",
+    "wikiUrl": "http://lotr.wikia.com//wiki/Dwalin",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Dual Axes",
+      "value": 30
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Dwarven Power",
+      "value": 25,
+      "isSpecial": true
+    },
+    "health": 260
+  },
+  {
+    "_id": "5cd99d4bde30eff6ebccfcab",
+    "height": "4'5\"",
+    "race": "Dwarf",
+    "gender": "Male",
+    "birth": "TA 2767",
+    "spouse": "Unnamed wife",
+    "death": "March 17 ,3019",
+    "realm": "Iron Hills",
+    "hair": "",
+    "name": "Dáin II Ironfoot",
+    "wikiUrl": "http://lotr.wikia.com//wiki/D%C3%A1in_II_Ironfoot",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Barazanthual",
+      "value": 35
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Dwarven Power",
+      "value": 25,
+      "isSpecial": true
+    },
+    "health": 300
+  },
+  {
+    "_id": "5cd99d4bde30eff6ebccfcbc",
+    "height": "7' 10\"",
+    "race": "Human",
+    "gender": "Male",
+    "birth": "SA 3119",
+    "spouse": "Unnamed wife",
+    "death": "SA 3441",
+    "realm": "Arnor,Gondor",
+    "hair": "Brown",
+    "name": "Elendil",
+    "wikiUrl": "http://lotr.wikia.com//wiki/Elendil",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Narsil",
+      "value": 45
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Faithful",
+      "value": 150,
+      "isSpecial": true
+    },
+    "health": 440
+  },
+  {
+    "_id": "5cd99d4bde30eff6ebccfcc8",
+    "height": "6'2\"",
+    "race": "Elf",
+    "gender": "Male",
+    "birth": "FA 532",
+    "spouse": "Celebrían",
+    "death": "Still alive; departed to ,Aman, on ,September 29 ,3021",
+    "realm": "Rivendell",
+    "hair": "Dark",
+    "name": "Elrond",
+    "wikiUrl": "http://lotr.wikia.com//wiki/Elrond",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Hadhafang",
+      "value": 50
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Foresight",
+      "value": 140,
+      "isSpecial": true
+    },
+    "health": 420
+  },
+  {
+    "_id": "5cd99d4bde30eff6ebccfcef",
+    "height": "6'4\"",
+    "race": "Human",
+    "gender": "Male",
+    "birth": "TA 2983",
+    "spouse": "owyn",
+    "death": "February 26 ,82",
+    "realm": "Gondor",
+    "hair": "Raven",
+    "name": "Faramir",
+    "wikiUrl": "http://lotr.wikia.com//wiki/Faramir",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Bow",
+      "value": 45
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Ambush",
+      "value": 120,
+      "isSpecial": true
+    },
+    "health": 370
+  },
+  {
+    "_id": "5cd99d4bde30eff6ebccfd04",
+    "height": "4'6\"",
+    "race": "Dwarf",
+    "gender": "Male",
+    "birth": "TA 2859",
+    "spouse": "None",
+    "death": "November 23TA 2941",
+    "realm": "Erebor",
+    "hair": "Yellow",
+    "name": "Fíli and Kíli",
+    "wikiUrl": "http://lotr.wikia.com//wiki/F%C3%ADli_and_K%C3%ADli",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Dual Swords",
+      "value": 25
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Dwarven Power",
+      "value": 25,
+      "isSpecial": true
+    },
+    "health": 260
+  },
+  {
+    "_id": "5cd99d4bde30eff6ebccfd06",
+    "height": "6'4\"",
+    "race": "Elf",
+    "gender": "Female",
+    "birth": "YT 1362",
+    "spouse": "Celeborn",
+    "death": "Still alive: Departed over the sea on ,September 29 ,3021",
+    "realm": "Lothlórien",
+    "hair": "Golden",
+    "name": "Galadriel",
+    "wikiUrl": "http://lotr.wikia.com//wiki/Galadriel",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Wisdom",
+      "value": 55
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Nenya",
+      "value": 275,
+      "isSpecial": true
+    },
+    "health": 560
+  },
+  {
+    "_id": "5cd99d4bde30eff6ebccfd0d",
+    "height": "3'6\"",
+    "race": "Hobbit",
+    "gender": "Male",
+    "birth": "April 6 ,2980",
+    "spouse": "Rosie Cotton",
+    "death": "Still alive, after going to the ,Undying Lands, in ,FO 61",
+    "realm": "The Shire",
+    "hair": "Blond (movie)",
+    "name": "Samwise Gamgee",
+    "wikiUrl": "http://lotr.wikia.com//wiki/Samwise_Gamgee",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Daggers of Westernesse",
+      "value": 40
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Stout Heart",
+      "value": 100,
+      "isSpecial": true
+    },
+    "health": 310
+  },
+  {
+    "_id": "5cd99d4bde30eff6ebccfd0e",
+    "height": "6'2\"",
+    "race": "Human",
+    "gender": "Male",
+    "birth": "Possibly late ,Third Age",
+    "spouse": "",
+    "death": "",
+    "realm": "Rohan",
+    "hair": "Possibly blond",
+    "name": "Gamling",
+    "wikiUrl": "http://lotr.wikia.com//wiki/Gamling",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Shortsword",
+      "value": 25
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Standard Bearer",
+      "value": 90,
+      "isSpecial": true
+    },
+    "health": 240
+  },
+  {
+    "_id": "5cd99d4bde30eff6ebccfd14",
+    "height": "7'0\"",
+    "race": "Elf",
+    "gender": "Male",
+    "birth": "FA 450",
+    "spouse": "",
+    "death": "SA 3441",
+    "realm": "Lindon",
+    "hair": "Possibly golden (book) Dark brown (movie)",
+    "name": "Gil-galad",
+    "wikiUrl": "http://lotr.wikia.com//wiki/Gil-galad",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Aeglos",
+      "value": 45
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "High King",
+      "value": 140,
+      "isSpecial": true
+    },
+    "health": 450
+  },
+  {
+    "_id": "5cd99d4bde30eff6ebccfd1f",
+    "height": "6'8\"",
+    "race": "Elf",
+    "gender": "Male",
+    "birth": "Possibly ,YT",
+    "spouse": "None",
+    "death": "FA 510",
+    "realm": "Lindon",
+    "hair": "Golden",
+    "name": "Glorfindel",
+    "wikiUrl": "http://lotr.wikia.com//wiki/Glorfindel",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Thorondún",
+      "value": 60
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Rebirth",
+      "value": 200,
+      "isSpecial": true
+    },
+    "health": 500
+  },
+  {
+    "_id": "5cd99d4bde30eff6ebccfd23",
+    "height": "4'6\"",
+    "race": "Dwarf",
+    "gender": "Male",
+    "birth": "TA 2879",
+    "spouse": "",
+    "death": "Unknown (Departed to ,Aman ,FO 120,)",
+    "realm": "Glittering Caves",
+    "hair": "Auburn",
+    "name": "Gimli",
+    "wikiUrl": "http://lotr.wikia.com//wiki/Gimli",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Balin's Axe",
+      "value": 50
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Let them come!",
+      "value": 140,
+      "isSpecial": true
+    },
+    "health": 500
+  },
+  {
+    "_id": "5cd99d4bde30eff6ebccfd2b",
+    "height": "4'7\"",
+    "race": "Dwarf",
+    "gender": "Male",
+    "birth": "TA 2783",
+    "spouse": "Unnamed wife",
+    "death": "FO 15",
+    "realm": "Erebor",
+    "hair": "Red, later White",
+    "name": "Glóin",
+    "wikiUrl": "http://lotr.wikia.com//wiki/Gl%C3%B3in",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Dwarven Axe",
+      "value": 30
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Dwarven Power",
+      "value": 25,
+      "isSpecial": true
+    },
+    "health": 260
+  },
+  {
+    "_id": "5cd99d4bde30eff6ebccfd42",
+    "height": "6'2\"",
+    "race": "Elf",
+    "gender": "Male",
+    "birth": "",
+    "spouse": "",
+    "death": "TA 3019",
+    "realm": "Lothlórien",
+    "hair": "Golden",
+    "name": "Haldir (Lorien)",
+    "wikiUrl": "http://lotr.wikia.com//wiki/Haldir_(Lorien)",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Lorien Bow",
+      "value": 30
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Sniper",
+      "value": 90,
+      "isSpecial": true
+    },
+    "health": 300
+  },
+  {
+    "_id": "5cd99d4bde30eff6ebccfd50",
+    "height": "6'0\"",
+    "race": "Human",
+    "gender": "Male",
+    "birth": "TA 2691",
+    "spouse": "Unnamed wife",
+    "death": "TA 2759",
+    "realm": "Rohan",
+    "hair": "",
+    "name": "Helm Hammerhand",
+    "wikiUrl": "http://lotr.wikia.com//wiki/Helm_Hammerhand",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Bare Hands",
+      "value": 45
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Horn of the Deep",
+      "value": 140,
+      "isSpecial": true
+    },
+    "health": 400
+  },
+  {
+    "_id": "5cd99d4bde30eff6ebccfd66",
+    "height": "6'3\"",
+    "race": "Human",
+    "gender": "Male",
+    "birth": "TA 2975",
+    "spouse": "Unknown, possibly none",
+    "death": "March 3, or ,4 ,3019",
+    "realm": "Rohan",
+    "hair": "Reddish brown (movie)",
+    "name": "Háma",
+    "wikiUrl": "http://lotr.wikia.com//wiki/H%C3%A1ma",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Shortsword",
+      "value": 25
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Cavalry",
+      "value": 100,
+      "isSpecial": true
+    },
+    "health": 250
+  },
+  {
+    "_id": "5cd99d4bde30eff6ebccfd81",
+    "height": "6'1\"",
+    "race": "Elf",
+    "gender": "Male",
+    "birth": "",
+    "spouse": "",
+    "death": "Still alive, departed to ,Aman ,FO 120",
+    "realm": "Mirkwood",
+    "hair": "Uncertain (book), Blonde (films)",
+    "name": "Legolas",
+    "wikiUrl": "http://lotr.wikia.com//wiki/Legolas",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Bow of the Galadhrim",
+      "value": 50
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Double Arrow",
+      "value": 150,
+      "isSpecial": true
+    },
+    "health": 440
+  },
+  {
+    "_id": "5cd99d4bde30eff6ebccfd82",
+    "height": "7'1\"",
+    "race": "Human",
+    "gender": "Male",
+    "birth": "SA 3209",
+    "spouse": "Unnamed wife",
+    "death": "TA 2",
+    "realm": "Arnor,Gondor",
+    "hair": "Black",
+    "name": "Isildur",
+    "wikiUrl": "http://lotr.wikia.com//wiki/Isildur",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Narsil",
+      "value": 50
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Saurons Bane",
+      "value": 135,
+      "isSpecial": true
+    },
+    "health": 480
+  },
+  {
+    "_id": "5cd99d4bde30eff6ebccfd91",
+    "height": "6'1\"",
+    "race": "Human",
+    "gender": "Male",
+    "birth": "Late ,Third Age",
+    "spouse": "",
+    "death": "",
+    "realm": "Gondor",
+    "hair": "Dark",
+    "name": "Mablung the Ranger",
+    "wikiUrl": "http://lotr.wikia.com//wiki/Mablung_the_Ranger",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Bow",
+      "value": 25
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Ambush",
+      "value": 90,
+      "isSpecial": true
+    },
+    "health": 230
+  },
+  {
+    "_id": "5cd99d4bde30eff6ebccfdc4",
+    "height": "4'5\"",
+    "race": "Dwarf",
+    "gender": "Male",
+    "birth": "TA 2837",
+    "spouse": "",
+    "death": "",
+    "realm": "Erebor",
+    "hair": "",
+    "name": "Nori",
+    "wikiUrl": "http://lotr.wikia.com//wiki/Nori",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Dwarven Axe",
+      "value": 25
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Dwarven Power",
+      "value": 25,
+      "isSpecial": true
+    },
+    "health": 230
+  },
+  {
+    "_id": "5cd99d4bde30eff6ebccfdca",
+    "height": "4'5\"",
+    "race": "Dwarf",
+    "gender": "Male",
+    "birth": "TA 2865",
+    "spouse": "",
+    "death": "TA 2994",
+    "realm": "Erebor",
+    "hair": "",
+    "name": "Ori",
+    "wikiUrl": "http://lotr.wikia.com//wiki/Ori",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Dwarven Axe",
+      "value": 25
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Dwarven Power",
+      "value": 25,
+      "isSpecial": true
+    },
+    "health": 240
+  },
+  {
+    "_id": "5cd99d4bde30eff6ebccfe0d",
+    "height": "6'0\"",
+    "race": "Human",
+    "gender": "Male",
+    "birth": "Second Age",
+    "spouse": "",
+    "death": "Sometime after the ,War of the Last Alliance",
+    "realm": "White Mountains ",
+    "hair": "",
+    "name": "The King of the Dead",
+    "wikiUrl": "http://lotr.wikia.com//wiki/The_King_of_the_Dead",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Ghostly Blade",
+      "value": 40
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Wind of the Mountain",
+      "value": 130,
+      "isSpecial": true
+    },
+    "health": 410
+  },
+  {
+    "_id": "5cd99d4bde30eff6ebccfe13",
+    "height": "6'5\"",
+    "race": "Elf",
+    "gender": "Male",
+    "birth": "First Age",
+    "spouse": "Unnamed wife",
+    "death": "Presumably departed to ,Aman",
+    "realm": "Mirkwood",
+    "hair": "Golden",
+    "name": "Thranduil",
+    "wikiUrl": "http://lotr.wikia.com//wiki/Thranduil",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Thranduil's sword",
+      "value": 40
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Scepter",
+      "value": 160,
+      "isSpecial": true
+    },
+    "health": 430
+  },
+  {
+    "_id": "5cd99d4bde30eff6ebccfe15",
+    "height": "4'10\"",
+    "race": "Dwarf",
+    "gender": "Male",
+    "birth": "TA 2746",
+    "spouse": "",
+    "death": "November 23, TA 2941",
+    "realm": "Ered Luin",
+    "hair": "",
+    "name": "Thorin II Oakenshield",
+    "wikiUrl": "http://lotr.wikia.com//wiki/Thorin_II_Oakenshield",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Orcrist",
+      "value": 35
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Oak Shield",
+      "value": 110,
+      "isSpecial": true
+    },
+    "health": 350
+  },
+  {
+    "_id": "5cd99d4bde30eff6ebccfe19",
+    "height": "6'2\"",
+    "race": "Human",
+    "gender": "Male",
+    "birth": "TA 2948 ,Gondor",
+    "spouse": "Elfhild",
+    "death": "March 15 ,3019",
+    "realm": "Rohan",
+    "hair": "White with braids (book) Blonde (films)",
+    "name": "Théoden",
+    "wikiUrl": "http://lotr.wikia.com//wiki/Th%C3%A9oden",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Herugrim",
+      "value": 35
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "A Red Day",
+      "value": 150,
+      "isSpecial": true
+    },
+    "health": 380
+  },
+  {
+    "_id": "5cd99d4bde30eff6ebccfe2e",
+    "height": "4'6\"",
+    "race": "Hobbit",
+    "gender": "Male",
+    "birth": "TA 2990",
+    "spouse": "Diamond of Long Cleeve",
+    "death": "FO 65",
+    "realm": "The Shire",
+    "hair": "Almost golden",
+    "name": "Peregrin Took",
+    "wikiUrl": "http://lotr.wikia.com//wiki/Peregrin_Took",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Barrow Blades",
+      "value": 20
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Rocks",
+      "value": 80,
+      "isSpecial": true
+    },
+    "health": 220
+  },
+  {
+    "_id": "5cd99d4bde30eff6ebccfe9d",
+    "height": "5'11\"",
+    "race": "Human",
+    "gender": "Male",
+    "birth": "TA 2974",
+    "spouse": "",
+    "death": "November 3 ,3019",
+    "realm": "Rohan",
+    "hair": "Black",
+    "name": "Gríma Wormtongue",
+    "wikiUrl": "http://lotr.wikia.com//wiki/Gr%C3%ADma_Wormtongue",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Dagger",
+      "value": 20
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Whispers",
+      "value": 80,
+      "isSpecial": true
+    },
+    "health": 220
+  },
+  {
+    "_id": "5cd99d4bde30eff6ebccfe9e",
+    "height": "3'6\"",
+    "race": "Hobbit",
+    "gender": "Male",
+    "birth": "TA 2430",
+    "spouse": "",
+    "death": "March 25 ,3019",
+    "realm": "The Shire",
+    "hair": "",
+    "name": "Gollum",
+    "wikiUrl": "http://lotr.wikia.com//wiki/Gollum",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Sneak",
+      "value": 30
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Gollum",
+      "value": 90,
+      "isSpecial": true
+    },
+    "health": 250
+  },
+  {
+    "_id": "5cd99d4bde30eff6ebccfea0",
+    "height": "5'6\"",
+    "race": "Maiar",
+    "gender": "Male",
+    "birth": "Before the the Shaping of Arda",
+    "spouse": "",
+    "death": "January 253019 ,Battle of the Peak immortal",
+    "realm": "Unknown",
+    "hair": "Grey, later white",
+    "name": "Gandalf",
+    "wikiUrl": "http://lotr.wikia.com//wiki/Gandalf",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Glamdring",
+      "value": 50
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Narya",
+      "value": 250,
+      "isSpecial": true
+    },
+    "health": 460
+  },
+  {
+    "_id": "5cd99d4bde30eff6ebccfea1",
+    "height": "5'4\"",
+    "race": "Maiar",
+    "gender": "Male",
+    "birth": "Before the creation of ,Arda",
+    "spouse": "None",
+    "death": "None",
+    "realm": "Unknown",
+    "hair": "Brown-gray (films)",
+    "name": "Radagast",
+    "wikiUrl": "http://lotr.wikia.com//wiki/Radagast",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Wizard Staff",
+      "value": 45
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Natures Call",
+      "value": 130,
+      "isSpecial": true
+    },
+    "health": 410
+  },
+  {
+    "_id": "5cd99d4bde30eff6ebccfea4",
+    "height": "5'9\"",
+    "race": "Maiar",
+    "gender": "Male",
+    "birth": "Before the creation of ,Arda",
+    "spouse": "None",
+    "death": "3 November ,3019",
+    "realm": "Isengard",
+    "hair": "White",
+    "name": "Saruman",
+    "wikiUrl": "http://lotr.wikia.com//wiki/Saruman",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Wizard Staff",
+      "value": 50
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Dark Sorcery",
+      "value": 160,
+      "isSpecial": true
+    },
+    "health": 500
+  },
+  {
+    "_id": "5cd99d4bde30eff6ebccfea5",
+    "height": "9'2\"",
+    "race": "Maiar",
+    "gender": "Male",
+    "birth": "Before the creation of ,Arda",
+    "spouse": "None",
+    "death": "March 25 ,3019",
+    "realm": "Mordor",
+    "hair": "Various",
+    "name": "Sauron",
+    "wikiUrl": "http://lotr.wikia.com//wiki/Sauron",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Mace",
+      "value": 100
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "The One Ring",
+      "value": 400,
+      "isSpecial": true
+    },
+    "health": 750
+  },
+  {
+    "_id": "5cd99d4bde30eff6ebccfea7",
+    "height": "20'0\"",
+    "race": "Maiar",
+    "gender": "Male",
+    "birth": "Before the creation of ,Arda",
+    "spouse": "",
+    "death": "January 253019",
+    "realm": "Moria",
+    "hair": "Mane of red flames",
+    "name": "Durin's Bane",
+    "wikiUrl": "http://lotr.wikia.com//wiki/Durin%27s_Bane",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Fiery sword",
+      "value": 75
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Fiery whip",
+      "value": 200,
+      "isSpecial": true
+    },
+    "health": 500
+  },
+  {
+    "_id": "5cd9d533844dc4c55e47afed",
+    "height": "15'4",
+    "race": "Ent",
+    "gender": "Male",
+    "birth": "YT",
+    "spouse": "Fimbrethil",
+    "death": "",
+    "realm": "Fangorn",
+    "hair": "Leaf, twig and moss like",
+    "name": "Treebeard",
+    "wikiUrl": "http://lotr.wikia.com//wiki/Treebeard",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Rock and Stone",
+      "value": 50
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Fangorn",
+      "value": 160,
+      "isSpecial": true
+    },
+    "health": 480
+  },
+  {
+    "_id": "5cd9d5a0844dc4c55e47afef",
+    "height": "6'7\"",
+    "race": "Human",
+    "gender": "Male",
+    "birth": "First Age",
+    "spouse": "None",
+    "death": "Probably died on ,March 25TA 3019, during destruction of ,Mordor",
+    "realm": "Mordor",
+    "hair": "Most likely black or none",
+    "name": "Mouth of Sauron",
+    "wikiUrl": "http://lotr.wikia.com//wiki/Mouth_of_Sauron",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Black Sword",
+      "value": 40
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Black Speech ",
+      "value": 120,
+      "isSpecial": true
+    },
+    "health": 340
+  },
+  {
+    "_id": "5cdbdecb6dc0baeae48cfa41",
+    "death": "TA 3019",
+    "birth": "NaN",
+    "hair": "NaN",
+    "realm": "Mordor",
+    "height": "4'10\"",
+    "spouse": "NaN",
+    "gender": "Male",
+    "name": "Snaga",
+    "race": "Orcs",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Orc Scimitar",
+      "value": 20
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Rage",
+      "value": 60,
+      "isSpecial": true
+    },
+    "health": 200
+  },
+  {
+    "_id": "5cdbdecb6dc0baeae48cfa42",
+    "death": "November 1 ,TA 2941",
+    "birth": "Unknown, first appeared in ,TA 2770",
+    "hair": "NaN",
+    "realm": "Lonely Mountain",
+    "height": "Enormous",
+    "spouse": "NaN",
+    "gender": "Male",
+    "name": "Smaug",
+    "race": "Dragons",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Bite",
+      "value": 70
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Fireblast",
+      "value": 240,
+      "isSpecial": true
+    },
+    "health": 700
+  },
+  {
+    "_id": "5cdbdecb6dc0baeae48cfa44",
+    "death": "Unknown, possibly TA 3019",
+    "birth": "Unknown, possibly during the ,First Age",
+    "hair": "NaN",
+    "realm": "Mordor",
+    "height": "Enormous",
+    "spouse": "NaN",
+    "gender": "Female",
+    "name": "Shelob",
+    "race": "Great Spiders",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Webs",
+      "value": 45
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Venom",
+      "value": 170,
+      "isSpecial": true
+    },
+    "health": 440
+  },
+  {
+    "_id": "5cdbdecb6dc0baeae48cfa45",
+    "death": "NaN",
+    "birth": "TA 2050",
+    "hair": "NaN",
+    "realm": "Cirith Ungol",
+    "height": "7'1",
+    "spouse": "NaN",
+    "gender": "Male",
+    "name": "Shagrat",
+    "race": "Black Uruk",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Orc Blade",
+      "value": 20
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Brute",
+      "value": 80,
+      "isSpecial": true
+    },
+    "health": 250
+  },
+  {
+    "_id": "5cdbdecb6dc0baeae48cfa52",
+    "death": "NaN",
+    "birth": "Second Age",
+    "hair": "White",
+    "realm": "Rhûn",
+    "height": "7'1\"",
+    "spouse": "NaN",
+    "gender": "Male",
+    "name": "Khamûl",
+    "race": "Men,Wraith",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Pike",
+      "value": 35
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Chariot",
+      "value": 130,
+      "isSpecial": true
+    },
+    "health": 400
+  },
+  {
+    "_id": "5cdbdecb6dc0baeae48cfa59",
+    "death": "FO",
+    "birth": "TA 2995",
+    "hair": "Pale gold",
+    "realm": "Rohan",
+    "height": "5'10\"",
+    "spouse": "Faramir",
+    "gender": "Female",
+    "name": "Éowyn",
+    "race": "Men",
+    "wikiUrl": "http://lotr.wikia.com//wiki/%C3%89owyn",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Shortsword",
+      "value": 35
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "I am no man",
+      "value": 110,
+      "isSpecial": true
+    },
+    "health": 320
+  },
+  {
+    "_id": "5cdbdecb6dc0baeae48cfa5a",
+    "death": "FO 63",
+    "birth": "TA 2990",
+    "hair": "Dirty blond",
+    "realm": "Rohan",
+    "height": "6'6\"",
+    "spouse": "Lothíriel after the War of the Ring",
+    "gender": "Male",
+    "name": "Éomer",
+    "race": "Men",
+    "wikiUrl": "http://lotr.wikia.com//wiki/%C3%89omer",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Gúthwinë",
+      "value": 45
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Spear",
+      "value": 120,
+      "isSpecial": true
+    },
+    "health": 400
+  },
+  {
+    "_id": "5cdbdecb6dc0baeae48cfa7d",
+    "death": "TA 2941",
+    "birth": "NaN",
+    "hair": "None",
+    "realm": "Gundabad",
+    "height": "8'6\"",
+    "spouse": "NaN",
+    "gender": "Male",
+    "name": "Bolg",
+    "race": "Goblin,Orc",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Orc Blade",
+      "value": 25
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Gundabad Warg",
+      "value": 100,
+      "isSpecial": true
+    },
+    "health": 280
+  },
+  {
+    "_id": "5cdbdecb6dc0baeae48cfa88",
+    "death": "NaN",
+    "birth": "NaN",
+    "hair": "NaN",
+    "realm": "Harad",
+    "height": "Enormous",
+    "spouse": "NaN",
+    "gender": "NaN",
+    "name": "Mûmakil",
+    "race": "NaN",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Stamp",
+      "value": 60
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Charge",
+      "value": 150,
+      "isSpecial": true
+    },
+    "health": 520
+  },
+  {
+    "_id": "5cdbdecb6dc0baeae48cfa89",
+    "death": "March ,3019",
+    "birth": "NaN",
+    "hair": "NaN",
+    "realm": "Mordor",
+    "height": "5'6\"",
+    "spouse": "NaN",
+    "gender": "Male",
+    "name": "Muzgash",
+    "race": "Orc",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Spear",
+      "value": 25
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Rage",
+      "value": 60,
+      "isSpecial": true
+    },
+    "health": 200
+  },
+  {
+    "_id": "5cdbdecb6dc0baeae48cfa93",
+    "death": "NaN",
+    "birth": "NaN",
+    "hair": "NaN",
+    "realm": "Unknown",
+    "height": "18'0",
+    "spouse": "NaN",
+    "gender": "Male",
+    "name": "Gwaihir",
+    "race": "Great Eagles",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Swoop",
+      "value": 55
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Great Winds",
+      "value": 190,
+      "isSpecial": true
+    },
+    "health": 500
+  },
+  {
+    "_id": "5cdbdecb6dc0baeae48cfa94",
+    "death": "February 29 ,3019",
+    "birth": "NaN",
+    "hair": "NaN",
+    "realm": "Mordor",
+    "height": "5'0\"",
+    "spouse": "NaN",
+    "gender": "Male",
+    "name": "Grishnákh",
+    "race": "Orc",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Orc Scimitar",
+      "value": 20
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Rage",
+      "value": 60,
+      "isSpecial": true
+    },
+    "health": 200
+  },
+  {
+    "_id": "5cdbdecb6dc0baeae48cfa96",
+    "death": "March 15, 3019 (film)",
+    "birth": "NaN",
+    "hair": "white/gray, possibly light brown (film)",
+    "realm": "Mordor",
+    "height": "5'9\"",
+    "spouse": "None",
+    "gender": "Male",
+    "name": "Gothmog (Lieutenant of Morgul)",
+    "race": "Orc",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Black Axe",
+      "value": 30
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Time of the Orc",
+      "value": 90,
+      "isSpecial": true
+    },
+    "health": 260
+  },
+  {
+    "_id": "5cdbdecb6dc0baeae48cfa9b",
+    "death": "March 14 ,3019, slain by ,Shagrat",
+    "birth": "NaN",
+    "hair": "black",
+    "realm": "Cirith Ungol",
+    "height": "5'5\"",
+    "spouse": "NaN",
+    "gender": "Male",
+    "name": "Gorbag",
+    "race": "Uruk-hai,Orc",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Orc Scimitar",
+      "value": 20
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Rage",
+      "value": 65,
+      "isSpecial": true
+    },
+    "health": 220
+  },
+  {
+    "_id": "5cdbdecb6dc0baeae48cfaa6",
+    "death": "March 15 ,3019",
+    "birth": "Mid-,Second Age",
+    "hair": "Brown, graying, later white",
+    "realm": "Angmar",
+    "height": "7'1\"",
+    "spouse": "NaN",
+    "gender": "Male",
+    "name": "Witch-king of Angmar",
+    "race": "Men,Wraith",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Morgul Blade",
+      "value": 45
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Great Mace",
+      "value": 170,
+      "isSpecial": true
+    },
+    "health": 470
+  },
+  {
+    "_id": "5cdbdecb6dc0baeae48cfaaf",
+    "death": "Possibly end of ,First Age",
+    "birth": "NaN",
+    "hair": "NaN",
+    "realm": "Unknown",
+    "height": "Enormous",
+    "spouse": "NaN",
+    "gender": "Female",
+    "name": "Ungoliant",
+    "race": "Great Spiders",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Web",
+      "value": 80
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Unlight",
+      "value": 220,
+      "isSpecial": true
+    },
+    "health": 620
+  },
+  {
+    "_id": "5cdbdecb6dc0baeae48cfab2",
+    "death": "February 293019",
+    "birth": "3019",
+    "hair": "Dark (movie)",
+    "realm": "Isengard",
+    "height": "6'6\"",
+    "spouse": "None",
+    "gender": "Male",
+    "name": "Uglúk",
+    "race": "Uruk-hai",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Orc Scimitar",
+      "value": 25
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Orc Draught",
+      "value": 80,
+      "isSpecial": true
+    },
+    "health": 260
+  },
+  {
+    "_id": "5cdbdecb6dc0baeae48cfac1",
+    "death": "February 293019",
+    "birth": " ,3019",
+    "hair": "Dark",
+    "realm": "Isengard",
+    "height": "6'1\"",
+    "spouse": "NaN",
+    "gender": "Male",
+    "name": "Lugdush",
+    "race": "Uruk-hai",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Orc Scimitar",
+      "value": 25
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Orc Draught",
+      "value": 80,
+      "isSpecial": true
+    },
+    "health": 250
+  },
+  {
+    "_id": "5cdbdecb6dc0baeae48cfad4",
+    "death": "TA 2799",
+    "birth": "NaN",
+    "hair": "none",
+    "realm": "Gundabad",
+    "height": "8'5\"",
+    "spouse": "NaN",
+    "gender": "Male",
+    "name": "Azog",
+    "race": "Orcs",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "War Mace ",
+      "value": 35
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Gundabad Warg",
+      "value": 110,
+      "isSpecial": true
+    },
+    "health": 300
+  },
+  {
+    "_id": "5cdbdf377ed9587226e7949a",
+    "birth": "",
+    "death": "TA 3019",
+    "hair": "",
+    "height": "5'0\"",
+    "realm": "Isengard",
+    "gender": "Male",
+    "spouse": "",
+    "name": "Sharku",
+    "race": "Orc",
+    "wikiUrl": "http://lotr.wikia.com//wiki/Sharku",
+    "mainAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 2,
+      "name": "Orc Scimitar",
+      "value": 20
+    },
+    "specialAttack": {
+      "disabledTurns": 0,
+      "disabledFor": 7,
+      "name": "Warg Rider",
+      "value": 70,
+      "isSpecial": true
+    },
+    "health": 200
+  }
+]
