@@ -13,13 +13,13 @@
     "wikiUrl": "http://lotr.wikia.com//wiki/Aragorn_II_Elessar",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Andúril",
       "value": 50
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Army of the Dead",
       "value": 200,
       "isSpecial": true
@@ -40,13 +40,13 @@
     "wikiUrl": "http://lotr.wikia.com//wiki/Arwen",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Hadhafang",
       "value": 35
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Flood",
       "value": 140,
       "isSpecial": true
@@ -67,13 +67,13 @@
     "wikiUrl": "http://lotr.wikia.com//wiki/Frodo_Baggins",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Sting",
       "value": 30
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Invisibilty",
       "value": 130,
       "isSpecial": true
@@ -94,13 +94,13 @@
     "wikiUrl": "http://lotr.wikia.com//wiki/Balin",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Balin's Axe",
       "value": 30
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Dwarven Power",
       "value": 25,
       "isSpecial": true
@@ -121,13 +121,13 @@
     "wikiUrl": "http://lotr.wikia.com//wiki/Bifur",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Boar spear",
       "value": 25
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Dwarven Power",
       "value": 25,
       "isSpecial": true
@@ -148,13 +148,13 @@
     "wikiUrl": "http://lotr.wikia.com//wiki/Bilbo_Baggins",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Sting",
       "value": 30
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Sneak",
       "value": 70,
       "isSpecial": true
@@ -175,13 +175,13 @@
     "wikiUrl": "http://lotr.wikia.com//wiki/Black_Serpent",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Standard Bearer",
       "value": 20
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Mûmakil",
       "value": 140,
       "isSpecial": true
@@ -202,13 +202,13 @@
     "wikiUrl": "http://lotr.wikia.com//wiki/Bofur",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Warhammer",
       "value": 25
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Dwarven Power",
       "value": 25,
       "isSpecial": true
@@ -229,13 +229,13 @@
     "wikiUrl": "http://lotr.wikia.com//wiki/Bombur",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Flail",
       "value": 25
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Dwarven Power",
       "value": 25,
       "isSpecial": true
@@ -256,13 +256,13 @@
     "wikiUrl": "http://lotr.wikia.com//wiki/Boromir",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Broadsword",
       "value": 50
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Horn of Gondor",
       "value": 150,
       "isSpecial": true
@@ -283,13 +283,13 @@
     "wikiUrl": "http://lotr.wikia.com//wiki/Meriadoc_Brandybuck",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Barrow-blades",
       "value": 20
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Rocks",
       "value": 80,
       "isSpecial": true
@@ -310,13 +310,13 @@
     "wikiUrl": "http://lotr.wikia.com//wiki/Celeborn",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Elvish Steel",
       "value": 45
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Wisdom",
       "value": 120,
       "isSpecial": true
@@ -337,13 +337,13 @@
     "wikiUrl": "http://lotr.wikia.com//wiki/Damrod",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Bow",
       "value": 25
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Ambush",
       "value": 80,
       "isSpecial": true
@@ -364,13 +364,13 @@
     "wikiUrl": "http://lotr.wikia.com//wiki/Denethor_II",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Staff",
       "value": 35
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Palantír",
       "value": 110,
       "isSpecial": true
@@ -391,13 +391,13 @@
     "wikiUrl": "http://lotr.wikia.com//wiki/Dori",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Dwarven Axe",
       "value": 25
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Dwarven Power",
       "value": 25,
       "isSpecial": true
@@ -418,13 +418,13 @@
     "wikiUrl": "http://lotr.wikia.com//wiki/Dwalin",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Dual Axes",
       "value": 30
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Dwarven Power",
       "value": 25,
       "isSpecial": true
@@ -445,13 +445,13 @@
     "wikiUrl": "http://lotr.wikia.com//wiki/D%C3%A1in_II_Ironfoot",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Barazanthual",
       "value": 35
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Dwarven Power",
       "value": 25,
       "isSpecial": true
@@ -472,13 +472,13 @@
     "wikiUrl": "http://lotr.wikia.com//wiki/Elendil",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Narsil",
       "value": 45
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Faithful",
       "value": 150,
       "isSpecial": true
@@ -499,13 +499,13 @@
     "wikiUrl": "http://lotr.wikia.com//wiki/Elrond",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Hadhafang",
       "value": 50
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Foresight",
       "value": 140,
       "isSpecial": true
@@ -526,13 +526,13 @@
     "wikiUrl": "http://lotr.wikia.com//wiki/Faramir",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Bow",
       "value": 45
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Ambush",
       "value": 120,
       "isSpecial": true
@@ -553,13 +553,13 @@
     "wikiUrl": "http://lotr.wikia.com//wiki/F%C3%ADli_and_K%C3%ADli",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Dual Swords",
       "value": 25
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Dwarven Power",
       "value": 25,
       "isSpecial": true
@@ -580,13 +580,13 @@
     "wikiUrl": "http://lotr.wikia.com//wiki/Galadriel",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Wisdom",
       "value": 55
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Nenya",
       "value": 275,
       "isSpecial": true
@@ -607,13 +607,13 @@
     "wikiUrl": "http://lotr.wikia.com//wiki/Samwise_Gamgee",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Daggers of Westernesse",
       "value": 40
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Stout Heart",
       "value": 100,
       "isSpecial": true
@@ -634,13 +634,13 @@
     "wikiUrl": "http://lotr.wikia.com//wiki/Gamling",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Shortsword",
       "value": 25
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Standard Bearer",
       "value": 90,
       "isSpecial": true
@@ -661,13 +661,13 @@
     "wikiUrl": "http://lotr.wikia.com//wiki/Gil-galad",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Aeglos",
       "value": 45
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "High King",
       "value": 140,
       "isSpecial": true
@@ -688,13 +688,13 @@
     "wikiUrl": "http://lotr.wikia.com//wiki/Glorfindel",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Thorondún",
       "value": 60
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Rebirth",
       "value": 200,
       "isSpecial": true
@@ -715,13 +715,13 @@
     "wikiUrl": "http://lotr.wikia.com//wiki/Gimli",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Balin's Axe",
       "value": 50
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Let them come!",
       "value": 140,
       "isSpecial": true
@@ -742,13 +742,13 @@
     "wikiUrl": "http://lotr.wikia.com//wiki/Gl%C3%B3in",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Dwarven Axe",
       "value": 30
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Dwarven Power",
       "value": 25,
       "isSpecial": true
@@ -769,13 +769,13 @@
     "wikiUrl": "http://lotr.wikia.com//wiki/Haldir_(Lorien)",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Lorien Bow",
       "value": 30
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Sniper",
       "value": 90,
       "isSpecial": true
@@ -796,13 +796,13 @@
     "wikiUrl": "http://lotr.wikia.com//wiki/Helm_Hammerhand",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Bare Hands",
       "value": 45
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Horn of the Deep",
       "value": 140,
       "isSpecial": true
@@ -823,13 +823,13 @@
     "wikiUrl": "http://lotr.wikia.com//wiki/H%C3%A1ma",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Shortsword",
       "value": 25
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Cavalry",
       "value": 100,
       "isSpecial": true
@@ -850,13 +850,13 @@
     "wikiUrl": "http://lotr.wikia.com//wiki/Legolas",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Bow of the Galadhrim",
       "value": 50
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Double Arrow",
       "value": 150,
       "isSpecial": true
@@ -877,13 +877,13 @@
     "wikiUrl": "http://lotr.wikia.com//wiki/Isildur",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Narsil",
       "value": 50
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Saurons Bane",
       "value": 135,
       "isSpecial": true
@@ -904,13 +904,13 @@
     "wikiUrl": "http://lotr.wikia.com//wiki/Mablung_the_Ranger",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Bow",
       "value": 25
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Ambush",
       "value": 90,
       "isSpecial": true
@@ -931,13 +931,13 @@
     "wikiUrl": "http://lotr.wikia.com//wiki/Nori",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Dwarven Axe",
       "value": 25
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Dwarven Power",
       "value": 25,
       "isSpecial": true
@@ -958,13 +958,13 @@
     "wikiUrl": "http://lotr.wikia.com//wiki/Ori",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Dwarven Axe",
       "value": 25
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Dwarven Power",
       "value": 25,
       "isSpecial": true
@@ -985,13 +985,13 @@
     "wikiUrl": "http://lotr.wikia.com//wiki/The_King_of_the_Dead",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Ghostly Blade",
       "value": 40
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Wind of the Mountain",
       "value": 130,
       "isSpecial": true
@@ -1012,13 +1012,13 @@
     "wikiUrl": "http://lotr.wikia.com//wiki/Thranduil",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Thranduil's sword",
       "value": 40
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Scepter",
       "value": 160,
       "isSpecial": true
@@ -1039,13 +1039,13 @@
     "wikiUrl": "http://lotr.wikia.com//wiki/Thorin_II_Oakenshield",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Orcrist",
       "value": 35
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Oak Shield",
       "value": 110,
       "isSpecial": true
@@ -1066,13 +1066,13 @@
     "wikiUrl": "http://lotr.wikia.com//wiki/Th%C3%A9oden",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Herugrim",
       "value": 35
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "A Red Day",
       "value": 150,
       "isSpecial": true
@@ -1093,13 +1093,13 @@
     "wikiUrl": "http://lotr.wikia.com//wiki/Peregrin_Took",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Barrow Blades",
       "value": 20
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Rocks",
       "value": 80,
       "isSpecial": true
@@ -1120,13 +1120,13 @@
     "wikiUrl": "http://lotr.wikia.com//wiki/Gr%C3%ADma_Wormtongue",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Dagger",
       "value": 20
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Whispers",
       "value": 80,
       "isSpecial": true
@@ -1147,13 +1147,13 @@
     "wikiUrl": "http://lotr.wikia.com//wiki/Gollum",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Sneak",
       "value": 30
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Gollum",
       "value": 90,
       "isSpecial": true
@@ -1174,13 +1174,13 @@
     "wikiUrl": "http://lotr.wikia.com//wiki/Gandalf",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Glamdring",
       "value": 50
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Narya",
       "value": 250,
       "isSpecial": true
@@ -1201,13 +1201,13 @@
     "wikiUrl": "http://lotr.wikia.com//wiki/Radagast",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Wizard Staff",
       "value": 45
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Natures Call",
       "value": 130,
       "isSpecial": true
@@ -1228,13 +1228,13 @@
     "wikiUrl": "http://lotr.wikia.com//wiki/Saruman",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Wizard Staff",
       "value": 50
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Dark Sorcery",
       "value": 160,
       "isSpecial": true
@@ -1255,13 +1255,13 @@
     "wikiUrl": "http://lotr.wikia.com//wiki/Sauron",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Mace",
       "value": 100
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "The One Ring",
       "value": 400,
       "isSpecial": true
@@ -1282,13 +1282,13 @@
     "wikiUrl": "http://lotr.wikia.com//wiki/Durin%27s_Bane",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Fiery sword",
       "value": 75
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Fiery whip",
       "value": 200,
       "isSpecial": true
@@ -1309,13 +1309,13 @@
     "wikiUrl": "http://lotr.wikia.com//wiki/Treebeard",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Rock and Stone",
       "value": 50
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Fangorn",
       "value": 160,
       "isSpecial": true
@@ -1336,13 +1336,13 @@
     "wikiUrl": "http://lotr.wikia.com//wiki/Mouth_of_Sauron",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Black Sword",
       "value": 40
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Black Speech ",
       "value": 120,
       "isSpecial": true
@@ -1362,13 +1362,13 @@
     "race": "Orcs",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Orc Scimitar",
       "value": 20
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Rage",
       "value": 60,
       "isSpecial": true
@@ -1388,13 +1388,13 @@
     "race": "Dragons",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Bite",
       "value": 70
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Fireblast",
       "value": 240,
       "isSpecial": true
@@ -1414,13 +1414,13 @@
     "race": "Great Spiders",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Webs",
       "value": 45
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Venom",
       "value": 170,
       "isSpecial": true
@@ -1440,13 +1440,13 @@
     "race": "Black Uruk",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Orc Blade",
       "value": 20
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Brute",
       "value": 80,
       "isSpecial": true
@@ -1466,13 +1466,13 @@
     "race": "Men,Wraith",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Pike",
       "value": 35
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Chariot",
       "value": 130,
       "isSpecial": true
@@ -1493,13 +1493,13 @@
     "wikiUrl": "http://lotr.wikia.com//wiki/%C3%89owyn",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Shortsword",
       "value": 35
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "I am no man",
       "value": 110,
       "isSpecial": true
@@ -1520,13 +1520,13 @@
     "wikiUrl": "http://lotr.wikia.com//wiki/%C3%89omer",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Gúthwinë",
       "value": 45
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Spear",
       "value": 120,
       "isSpecial": true
@@ -1546,13 +1546,13 @@
     "race": "Goblin,Orc",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Orc Blade",
       "value": 25
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Gundabad Warg",
       "value": 100,
       "isSpecial": true
@@ -1572,13 +1572,13 @@
     "race": "NaN",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Stamp",
       "value": 60
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Charge",
       "value": 150,
       "isSpecial": true
@@ -1598,13 +1598,13 @@
     "race": "Orc",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Spear",
       "value": 25
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Rage",
       "value": 60,
       "isSpecial": true
@@ -1624,13 +1624,13 @@
     "race": "Great Eagles",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Swoop",
       "value": 55
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Great Winds",
       "value": 190,
       "isSpecial": true
@@ -1650,13 +1650,13 @@
     "race": "Orc",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Orc Scimitar",
       "value": 20
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Rage",
       "value": 60,
       "isSpecial": true
@@ -1676,13 +1676,13 @@
     "race": "Orc",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Black Axe",
       "value": 30
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Time of the Orc",
       "value": 90,
       "isSpecial": true
@@ -1702,15 +1702,15 @@
     "race": "Uruk-hai,Orc",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Orc Scimitar",
       "value": 20
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Rage",
       "value": 65,
       "isSpecial": true
@@ -1730,13 +1730,13 @@
     "race": "Men,Wraith",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Morgul Blade",
       "value": 45
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Great Mace",
       "value": 170,
       "isSpecial": true
@@ -1756,13 +1756,13 @@
     "race": "Great Spiders",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Web",
       "value": 80
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Unlight",
       "value": 220,
       "isSpecial": true
@@ -1782,13 +1782,13 @@
     "race": "Uruk-hai",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Orc Scimitar",
       "value": 25
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Orc Draught",
       "value": 80,
       "isSpecial": true
@@ -1808,13 +1808,13 @@
     "race": "Uruk-hai",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Orc Scimitar",
       "value": 25
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Orc Draught",
       "value": 80,
       "isSpecial": true
@@ -1834,13 +1834,13 @@
     "race": "Orcs",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "War Mace ",
       "value": 35
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Gundabad Warg",
       "value": 110,
       "isSpecial": true
@@ -1861,13 +1861,13 @@
     "wikiUrl": "http://lotr.wikia.com//wiki/Sharku",
     "mainAttack": {
       "disabledTurns": 0,
-      "disabledFor": 2,
+      "disabledFor": 4,
       "name": "Orc Scimitar",
       "value": 20
     },
     "specialAttack": {
       "disabledTurns": 0,
-      "disabledFor": 7,
+      "disabledFor": 14,
       "name": "Warg Rider",
       "value": 70,
       "isSpecial": true

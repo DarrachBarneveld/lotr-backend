@@ -24,7 +24,7 @@ const userRooms: Set<IRoom> = new Set(); //maliable instances of rooms
 
 io.on("connection", (socket: Socket) => {
   socket.on("send_message", (data: Message) => {
-    socket.to("room1").emit("received_message", data.message);
+    socket.to(data.roomId).emit("received_message", data.message);
   });
 
   socket.on("set_active_player", (data: IRoom) => {
@@ -33,6 +33,7 @@ io.on("connection", (socket: Socket) => {
 
   socket.on("load_all_rooms", () => {
     const activeUserRooms = findUserRooms();
+    const totalUsers = io.sockets.sockets.size;
 
     const filteredArray = activeUserRooms.map((x) => {
       const id = x[0];
@@ -40,7 +41,7 @@ io.on("connection", (socket: Socket) => {
       return { id, users: numUsers };
     });
 
-    socket.emit("display_all_rooms", filteredArray);
+    socket.emit("display_all_rooms", { filteredArray, totalUsers });
   });
 
   socket.on("increment_turn", (data: IRoom) => {
@@ -78,9 +79,9 @@ io.on("connection", (socket: Socket) => {
   });
 
   socket.on("game_over", (data) => {
-    io.socketsLeave(data.id);
     console.log(data);
     io.to(data.id).emit("leave_room");
+    io.socketsLeave(data.id);
 
     const arrayRooms = Array.from(userRooms);
     const room = arrayRooms.find((userRoom) => data.id === userRoom.id);
@@ -88,6 +89,6 @@ io.on("connection", (socket: Socket) => {
   });
 });
 
-const PORT = process.env.PORT || 80;
+const PORT = process.env.PORT || 4000;
 
 server.listen(PORT, console.log(`Server is running on port ${PORT}`));

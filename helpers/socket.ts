@@ -47,6 +47,7 @@ export function joinRoom(socket: Socket, userRooms: Set<IRoom>) {
     }
 
     socket.join(room[0]);
+    console.log(room[0]);
     socket.to(room[0]).emit("user_joined_room", {
       room: roomModal,
       player: { userName: socket.id },
