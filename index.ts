@@ -27,6 +27,19 @@ io.on("connection", (socket: Socket) => {
     socket.to(data.roomId).emit("received_message", data.message);
   });
 
+  socket.on("default_join", () => {
+    socket.join("10");
+
+    const size = io.sockets.adapter.rooms.get("10")?.size;
+
+    const roomData = {
+      id: "10",
+      turnIndex: 1,
+      users: size,
+    };
+    socket.emit("joined_default", roomData);
+  });
+
   socket.on("set_active_player", (data: IRoom) => {
     socket.emit("set_index", data.users);
   });
@@ -79,7 +92,6 @@ io.on("connection", (socket: Socket) => {
   });
 
   socket.on("game_over", (data) => {
-    console.log(data);
     io.to(data.id).emit("leave_room");
     io.socketsLeave(data.id);
 

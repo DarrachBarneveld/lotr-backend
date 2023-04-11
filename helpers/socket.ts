@@ -1,5 +1,5 @@
 import { Socket } from "socket.io";
-import { IRoom } from "../models/models";
+import { Character, IRoom } from "../models/models";
 
 import { v4 } from "uuid";
 import { random10FromArray } from "./math";
@@ -47,7 +47,6 @@ export function joinRoom(socket: Socket, userRooms: Set<IRoom>) {
     }
 
     socket.join(room[0]);
-    console.log(room[0]);
     socket.to(room[0]).emit("user_joined_room", {
       room: roomModal,
       player: { userName: socket.id },
