@@ -70,8 +70,8 @@ io.on("connection", (socket: Socket) => {
     }
   );
 
-  socket.on("join_room", () => {
-    joinRoom(socket, userRooms);
+  socket.on("join_room", (data) => {
+    joinRoom(socket, userRooms, data);
   });
 
   socket.on("load_random_character", () => {});

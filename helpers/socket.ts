@@ -25,7 +25,7 @@ export function createRoom(
   socket.emit("room_created", room);
 }
 
-export function joinRoom(socket: Socket, userRooms: Set<IRoom>) {
+export function joinRoom(socket: Socket, userRooms: Set<IRoom>, data: string) {
   const activeUserRooms = findUserRooms();
 
   if (activeUserRooms.length === 0) {
@@ -37,23 +37,24 @@ export function joinRoom(socket: Socket, userRooms: Set<IRoom>) {
   const room = activeUserRooms.find((room) => room[1].size < 2);
 
   if (room) {
-    const roomModal: IRoom = [...userRooms].find((set) => set.id === room[0])!;
+    const id = data ? data : room[0];
+    const roomModal: IRoom = [...userRooms].find((set) => set.id === id)!;
 
-    if (io.sockets.adapter.rooms.get(room[0])) {
-      roomModal.users = io.sockets.adapter.rooms.get(room[0])!.size + 1;
+    if (io.sockets.adapter.rooms.get(id)) {
+      roomModal.users = io.sockets.adapter.rooms.get(id)!.size + 1;
     } else {
       roomModal.users = 2;
       // QUICK FIX = better to get live io.socket.adaptar.room.size
     }
 
-    socket.join(room[0]);
-    socket.to(room[0]).emit("user_joined_room", {
+    socket.join(id);
+    socket.to(id).emit("user_joined_room", {
       room: roomModal,
       player: { userName: socket.id },
     });
 
     socket.emit("joined", roomModal);
-    loadRandomCharacters(room[0]);
+    loadRandomCharacters(id);
   }
 }
 
