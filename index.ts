@@ -84,6 +84,10 @@ io.on("connection", (socket: Socket) => {
     io.to(data.room.id).emit("attacking_hit", data);
   });
 
+  socket.on("defence", (data) => {
+    socket.to(data.id).emit("opponent_defence");
+  });
+
   socket.on("win", () => {
     socket.emit("winning_alert");
   });
