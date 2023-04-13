@@ -1489,7 +1489,7 @@
     "spouse": "Faramir",
     "gender": "Female",
     "name": "Éowyn",
-    "race": "Men",
+    "race": "Human",
     "wikiUrl": "http://lotr.wikia.com//wiki/%C3%89owyn",
     "mainAttack": {
       "disabledTurns": 0,
@@ -1516,7 +1516,7 @@
     "spouse": "Lothíriel after the War of the Ring",
     "gender": "Male",
     "name": "Éomer",
-    "race": "Men",
+    "race": "Human",
     "wikiUrl": "http://lotr.wikia.com//wiki/%C3%89omer",
     "mainAttack": {
       "disabledTurns": 0,

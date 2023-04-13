@@ -2,6 +2,7 @@ import { Socket } from "socket.io";
 import { createRoom, findUserRooms, joinRoom } from "./helpers/socket";
 import { Character, IRoom, Message } from "./models/models";
 import { Server } from "socket.io";
+import { findUserRoomData } from "./helpers/math";
 
 const express = require("express");
 const cors = require("cors");
@@ -20,7 +21,7 @@ export const io = new Server(server, {
   },
 });
 
-const userRooms: Set<IRoom> = new Set(); //maliable instances of rooms
+const userRooms: Set<IRoom> = new Set();
 
 io.on("connection", (socket: Socket) => {
   socket.on("send_message", (data: Message) => {
@@ -48,13 +49,18 @@ io.on("connection", (socket: Socket) => {
     const activeUserRooms = findUserRooms();
     const totalUsers = io.sockets.sockets.size;
 
-    const filteredArray = activeUserRooms.map((x) => {
-      const id = x[0];
-      const numUsers = x[1].size;
+    const filteredArray = activeUserRooms.map((rooms) => {
+      const id = rooms[0];
+      const numUsers = rooms[1].size;
       return { id, users: numUsers };
     });
 
-    socket.emit("display_all_rooms", { filteredArray, totalUsers });
+    const finalArrayData = findUserRoomData([...userRooms], filteredArray);
+
+    socket.emit("display_all_rooms", {
+      finalArrayData,
+      totalUsers,
+    });
   });
 
   socket.on("increment_turn", (data: IRoom) => {
@@ -76,8 +82,8 @@ io.on("connection", (socket: Socket) => {
 
   socket.on("load_random_character", () => {});
 
-  socket.on("create_room", (roomId: string) => {
-    createRoom(socket, roomId, userRooms);
+  socket.on("create_room", (data) => {
+    createRoom(socket, data, userRooms);
   });
 
   socket.on("attack", (data) => {

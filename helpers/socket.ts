@@ -1,11 +1,16 @@
 import { Socket } from "socket.io";
-import { Character, IRoom } from "../models/models";
+import { IRoom } from "../models/models";
 
 import { v4 } from "uuid";
 import { random10FromArray } from "./math";
 import { io } from "..";
 
 const characters = require("../data/characters.json");
+
+type createRoomData = {
+  id: string;
+  zone: string;
+};
 
 export function findUserRooms() {
   const allRooms = Array.from(io.sockets.adapter.rooms);
@@ -16,12 +21,12 @@ export function findUserRooms() {
 
 export function createRoom(
   socket: Socket,
-  roomId: string,
+  data: createRoomData,
   userRooms: Set<IRoom>
 ) {
-  const room: IRoom = { id: roomId, turnIndex: 1, users: 1 };
+  const room: IRoom = { id: data.id, turnIndex: 1, users: 1, zone: data.zone };
   userRooms.add(room);
-  socket.join(roomId);
+  socket.join(data.id);
   socket.emit("room_created", room);
 }
 
@@ -30,7 +35,14 @@ export function joinRoom(socket: Socket, userRooms: Set<IRoom>, data: string) {
 
   if (activeUserRooms.length === 0) {
     const roomId = `id_${v4()}`;
-    createRoom(socket, roomId, userRooms);
+    const zone = "gondor";
+
+    const data = {
+      id: roomId,
+      zone,
+    };
+
+    createRoom(socket, data, userRooms);
     return;
   }
 

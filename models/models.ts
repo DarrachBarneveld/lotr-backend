@@ -2,6 +2,7 @@ export interface IRoom {
   id: string;
   turnIndex: number;
   users: number;
+  zone: string;
 }
 
 export interface IPlayer {
