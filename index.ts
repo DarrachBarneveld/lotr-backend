@@ -1,6 +1,6 @@
 import { Socket } from "socket.io";
 import { createRoom, findUserRooms, joinRoom } from "./helpers/socket";
-import { Character, IRoom, Message } from "./models/models";
+import { Character, IRoom, Message } from "./lib/interface";
 import { Server } from "socket.io";
 import { findUserRoomData } from "./helpers/math";
 
@@ -16,7 +16,7 @@ app.use(cors());
 
 export const io = new Server(server, {
   cors: {
-    origin: "*",
+    origin: "https://lotr-pokemon.netlify.app/",
     methods: ["GET", "POST"],
   },
 });
