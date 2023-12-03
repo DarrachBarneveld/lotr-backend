@@ -1,4 +1,15 @@
 {
-  "compilerOptions": {},
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "preserveConstEnums": true,
+    "sourceMap": true,
+    "target": "ES2018",
+    "moduleResolution": "node",
+    "downlevelIteration": true,
+    "lib": ["es6", "dom.iterable", "dom"],
+    "outDir": "dist",
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true
+  },
   "include": ["src/**/*.ts", "typings.d.ts"]
 }
