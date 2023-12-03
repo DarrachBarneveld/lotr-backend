@@ -1,5 +1,5 @@
 import { Socket } from "socket.io";
-import { IRoom } from "../models/models";
+import { IRoom } from "../lib/interface";
 
 import { v4 } from "uuid";
 import { random10FromArray } from "./math";
