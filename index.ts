@@ -18,7 +18,6 @@ export const io = new Server(server, {
   cors: {
     origin: "https://lotr-pokemon.netlify.app/",
     methods: ["GET", "POST"],
-    credentials: true,
   },
 });
 
