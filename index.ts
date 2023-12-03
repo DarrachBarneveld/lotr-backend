@@ -8,6 +8,8 @@ const express = require("express");
 const cors = require("cors");
 const http = require("http");
 
+const PORT = process.env.PORT || 4000;
+
 const app = express();
 
 export const server = http.createServer(app);
@@ -16,7 +18,7 @@ app.use(cors());
 
 export const io = new Server(server, {
   cors: {
-    origin: "https://lotr-pokemon.netlify.app/",
+    origin: "*",
     methods: ["GET", "POST"],
   },
 });
@@ -110,7 +112,5 @@ io.on("connection", (socket: Socket) => {
     room && userRooms.delete(room);
   });
 });
-
-const PORT = process.env.PORT || 4000;
 
 server.listen(PORT, console.log(`Server is running on port ${PORT}`));
